@@ -1,0 +1,20 @@
+{
+  "name": "problem-solver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node cal-max-min-frequency-letter"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmerdevopsinertia/problem-solver.git"
+  },
+  "author": "Ahmer Saeed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmerdevopsinertia/problem-solver/issues"
+  },
+  "homepage": "https://github.com/ahmerdevopsinertia/problem-solver#readme"
+}
